@@ -1,12 +1,11 @@
 import React from 'react';
 import './home.css';
 import profileImg from '../../assets/download.jpg';
-import Navbar from '../Navbar/Navbar';
 
 const Home = () => {
   return (
     <div>
-      <Navbar />
+      
       <section className="home">
         <div className="home-content">
           <h1>Hi, It's me Saazan Shrestha</h1>
